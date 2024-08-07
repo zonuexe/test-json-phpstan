@@ -1,0 +1,13 @@
+{
+    "name": "zonuexe/test-json-phpstan",
+    "description": "Test JSON PHPStan",
+    "license": "FSFAP",
+    "require-dev": {
+        "phpstan/phpstan": "^1.11"
+    },
+    "autoload": {
+        "psr-4": {
+            "Foo\\": "src"
+        }
+    }
+}
